@@ -1,2 +1,2 @@
 ## Introduction
-Written by Bob
+Written by Akhil and Bob
